@@ -1,3 +1,4 @@
+<style> header, .page-header { display: none !important; } </style>
 # **Terms and Conditions (EULA)**
 
 **Effective Date:** 20-Apr-2026
