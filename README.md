@@ -1,3 +1,4 @@
+<style> header, .page-header { display: none !important; } </style>
 # **Privacy Policy**
 
 ### **RemoteCam**
