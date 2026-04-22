@@ -29,7 +29,7 @@ You agree to use the Application only for lawful purposes. **You expressly agree
 
 ## **4\. Privacy Policy Integration and Consumer Rights**
 
-Your use of the Application is also governed by our [Privacy Policy](eula.md), which details our data handling practices in compliance with applicable privacy frameworks (including PIPEDA and GDPR). By using the Application, you acknowledge and agree to the terms of the [Privacy Policy](eula.md). Nothing in these Terms is intended to waive, limit, or supersede your mandatory consumer protection or data privacy rights under such applicable frameworks, which cannot be legally waived.
+Your use of the Application is also governed by our [Privacy Policy](README.md), which details our data handling practices in compliance with applicable privacy frameworks (including PIPEDA and GDPR). By using the Application, you acknowledge and agree to the terms of the [Privacy Policy](README.md). Nothing in these Terms is intended to waive, limit, or supersede your mandatory consumer protection or data privacy rights under such applicable frameworks, which cannot be legally waived.
 
 ## **5\. Third-Party Services: Authentication and Storage**
 
@@ -65,7 +65,7 @@ The Application is provided under a Freemium model.
 
 The Developer retains the right, to the extent permitted by applicable law, to enforce these Terms and manage the Application's infrastructure:
 
-* **User Termination:** We reserve the right to suspend, block, or terminate your access to the Application for any reason, including but not limited to a breach of these Terms or suspected unlawful use. Such termination may occur with or without advance notice, subject to mandatory consumer protection laws (including EU Directives) that may require reasonable prior notice. Upon termination, the handling, export, or deletion of your data will be governed by our [Privacy Policy](eula.md).  
+* **User Termination:** We reserve the right to suspend, block, or terminate your access to the Application for any reason, including but not limited to a breach of these Terms or suspected unlawful use. Such termination may occur with or without advance notice, subject to mandatory consumer protection laws (including EU Directives) that may require reasonable prior notice. Upon termination, the handling, export, or deletion of your data will be governed by our [Privacy Policy](README.md).  
 * **Service Shutdown and Updates:** We reserve the right to modify, suspend, or completely discontinue the Application, the relay server, or any specific features at any time, temporarily or permanently, without prior notice or liability to you. Furthermore, we may update or modify the Application at any time, including changes that may affect functionality or compatibility.  
 * **Beta Features:** Certain features may be offered on an experimental or beta basis and may be modified or discontinued at any time.  
 * **No Support Obligation:** The Developer is under no obligation to provide maintenance, technical support, or updates for the Application, except as required by applicable law or explicitly stated in the Application.
